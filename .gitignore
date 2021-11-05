@@ -1,0 +1,16 @@
+**/.idea
+**/.vscode
+**/.ipynb_checkpoints/
+**/.tar.gz
+**.json.gz
+**/.zip
+**/__pycache__/
+.python-version
+*.code-workspace
+.cache
+**/.coverage
+
+
+data/
+models/
+
